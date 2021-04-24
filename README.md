@@ -1,4 +1,4 @@
-AWS Identity and Access Management (IAM) Terraform using Terraform.
+AWS Identity and Access Management (IAM) using Terraform.
 
 ## Quick Start
 
